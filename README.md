@@ -1,6 +1,7 @@
 # AmpleFile macOS releases
 
-This public repository is the artifact-only macOS update feed for AmpleFile.
+This public repository is the artifact-only macOS update feed for
+[AmpleFile](https://github.com/Mat-Tom-Son/amplefile).
 Installed copies of AmpleFile check it for new versions and update in place.
 
 Source code, documentation, and issues live in the source repository. Release
